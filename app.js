@@ -24,4 +24,10 @@
 
 // let max = [2, 5, 10, 9]
 // let str = Math.max(...max)
+
 // console.log(str)
+
+
+// let duplicate = [1,2,2,3,4,4,9,6,4]
+// let removeduplicate = new Set([...duplicate])
+// console.log(removeduplicate)
