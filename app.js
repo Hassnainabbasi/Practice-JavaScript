@@ -56,5 +56,27 @@
 //     unique.push(arr[i])
 //   }
 // }
-// console.log(unique)
+// // console.log(unique)
+// let arr = ["c", "b", "d", "a", "d", "d", "b", "d","a", "a"]
+
+// let freq = {}
+// let maxnumber = 0
+// let maxelement;
+// // let check = []
+// for(var i = 0; i < arr.length; i++ ){
+//   // check.push(arr[i])
+//   let num = arr[i]
+//   // console.log(num)
+//   freq[num]
+//   console.log(freq[num] = (freq[num] || 0) + 1)
+//   if(freq[num] > maxnumber){
+//     maxnumber = freq[num]
+//     maxelement = num
+//   }
+// }
+// console.log(freq)
+// console.log(maxnumber)
+// console.log(maxelement)
+
+
 
